@@ -102,12 +102,14 @@ int main(void)
 ```
 ---
 ### OUTPUT
-CASE 1: LED ON 
-![WhatsApp Image 2025-11-05 at 15 03 34_fd3800aa](https://github.com/user-attachments/assets/08cdaa0a-e8ff-46ec-af1b-06b7b0ab72d5)
+## CASE 1: LED ON 
+![WhatsApp Image 2025-11-05 at 19 24 37_8bf0d766](https://github.com/user-attachments/assets/3c686f91-6327-42a2-9a66-7d355078d963)
 
 
-CASE 2: LED OFF
-![WhatsApp Image 2025-11-05 at 15 03 33_672fef76](https://github.com/user-attachments/assets/ace6ba5e-0b34-4745-97c3-74c12c13bf1a)
+
+## CASE 2: LED OFF
+![WhatsApp Image 2025-11-05 at 19 24 50_b76f736e](https://github.com/user-attachments/assets/19de543b-4d9e-43f0-80bd-da715bb5c4a3)
+
 
 
 ---
